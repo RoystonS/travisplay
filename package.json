@@ -62,6 +62,7 @@
     "codelyzer": "0.0.12",
     "compression-webpack-plugin": "^0.3.0",
     "copy-webpack-plugin": "^1.1.1",
+    "coveralls": "^2.11.9",
     "css-loader": "^0.23.1",
     "es6-promise": "^3.1.2",
     "es6-promise-loader": "^1.0.1",
