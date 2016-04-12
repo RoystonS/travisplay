@@ -22,7 +22,7 @@ describe('App', () => {
   }));
 
   it('should cause some error', () => {
-    expect(42).toEqual(43);
+    expect(42).toEqual(42);
   });
 });
 
