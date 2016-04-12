@@ -1,1 +1,6 @@
 node_modules/
+builds/
+coverage/
+dist/
+doc/
+typings/
